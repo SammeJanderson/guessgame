@@ -46,7 +46,7 @@ public class GuessGame{
         p2isRight = true;
       }
       if (guessp3 == targetNumber){
-        p3isRight = true;
+        p3isRight = true
       }
 
       if (p1isRight || p2isRight || p3isRight) {
